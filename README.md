@@ -3,23 +3,70 @@ Proyecto Realstatev2 - 2022
 
 
 
-──▄▀▀▀▄───────────────
-──█───█───────────────
-─███████─────────▄▀▀▄─
-░██─▀─██░░█▀█▀▀▀▀█░░█░
-░███▄███░░▀░▀░░░░░▀▀░░
+
+                                       .,..,;;;;;;;;,            .
+                                          ```'`<!!!!!!;;,.       `!;
+                                    ,;;;!!!!!!;;,;!!!!!!!!!;,     !!!;
+                                ,;!!!!!!!!!!!!!!!!!!!!!!!!!!!!;   `!!!!;
+                             ,;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> <!!!!!;
+                           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!><!!!!!!;
+                         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                    ;<!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                 ;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                ,<!'`!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+              ,;-''' .<!!!!''''```````'`<!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+              ,;;;>''`'               .,.'`!!!!!!!!!!!!!!!!!!!!!!!!!''
+                                      !!!>;,!!!!!!!!!!!!!!!!!!!'`'
+                                     !!!!!!!!!!!!!!!!!!!!!!'''
+                                    !!!!!!!!!!!!!!!!!!!!!'
+                                  `;!!'''`!!!!!!!!!!!!!!'
+                              ,;!>.!! ,;, `!!!!!!!!!!!!!
+                             ``!!!!!!!!!!!>'!!!!!!!!!!!!
+                           uMMx`!'' .,.'`!!;!!!!!!!!!!!!>
+                         nMMMM>  ,JMMMMb.`!!!!!!!!!!!!!!!!.
+                       ,JMMMMM  uMMMMMMMM <!!!!!!!!!!!!!!!!>
+                      ,MMMMMMM ,MMMMMMMMM>'!!!!!!!!!!!!!!!!>
+<$c                  ,MMMP"   uMMMMMMMMMM>'!!!!!!!!!!!!!!!!>
+$"$h          ,ccc, ;MMMP    ,MMMMMP"   " ;!!!!!!!!!!!!!!!!
+$ `?$.       z$$$$$ JMMM     4MMMMP       !!!!!!!!!!!!!!!!!
+$ < ?$$c     $$$$$$ MMMM     4MMMP       ;!!!'``_,,_```!!!
+?h`; $$$$c,  ??$$$$ MMMM    .`MMM        ``.zc$$$$$$$h.'`!
+`$ <;`$$$$$$hcc,_`" """" ,c$h MMM        c$$$$$$$$$$$$$hc
+   `' `$$$$$$$$$$$$$$$$$$$$$$.`MM      z$$$$$$$$$$$$$$$$$h
+     ' `$$$$$$$$$$$$$$$$$$$$$h.`4r  ,c$$$$$P"""   .,$$$$$$r
+        `?$$$$$$$$$$$$$$$$$$$$$hccc$$$$$$$$cd" cd$$$$$$$$$F
+          ?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P",J$$$$$$$$$$$
+           `?$$$$$$$$$$$$$$$$$$$$$$$$$$$$P" z$$$$$$$$$$$$F
+              `"??$$$$$$$$$$$$$$$$$$$$$P"  c$$$$$$$$$$$P"
+                   _""??????$$$$$???""    J$$$$$$$??""
+                   `$$.  ,;;- ,;;;;<!! .z$$$$"""
+                    ?$h ;!!! <!!!!!' ,c$$P""
+                     $$F`!!!!!!!'`,c$??"..- JM,
+                     `$$ !!!!'`,c$P".zc$$",MMMMb
+                      $$.' .,cP"",c$$$$$" MMMMMMr
+                   .nx "$??"' zJ$$$$??"" 4MMMMMMM
+                  ,MMMMn.nmMM $$P"".nJMMMnMMMMMMMb
+                 ,MMMMMMMM" . ".nJMMMMMMMMMMMMMMMM
+                 JMMMMMMMMnM".nMMMMMMMMMMMMMMMMMMP
+                ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMM"'..
+                4MMMMMMMMMMMMMMMMMMMMMMMMMMM" ;!!!
+             , .4MM" JMMMMMMMMMMMMMMMMMMMP",;!!!!!>
+            ; xb M" JMMMMMMMMMMMMMMMMP"" ;!!!!!!!!!
+           , uMMr ,;MMMMMMMMMMMMPP".xnn .!!!!!!!!!!
+          ,! MMMM, JMMMMMMMMPP".xnMMMM ;!!!!!!!!!!!,
+          ! JMMMMM 4MMMMMP".nmMMMMMMM ;!!!!!!!!!!!!!
+         ,!,MMMMMM,4MMMP uMMMMMMMMMMP !!!!!!!!!!!!!!
+         ! JMMMMMML MP ,JMMMMMMMMMMM <!!! `!!!!!!!!!
+        ;! MMMMMMMM," uMMMMMMMMMMMM';!!!!! `!!!!!!!!>
+
 
 ## Desarrollada por :
 #### - Guillermo Ferrari Ferrari
 
-Esta API REST permite controlar el funcionamiento de la app REAL ESTATE, la cual gestiona el alquiler y venta de viviendas, así como el API para poder gestionar todos los datos.
+Esta API REST permite controlar el funcionamiento de la app REAL ESTATEv2-2022
 
-Esto incluye las siguientes funcionalidades:
 
-- Las peticiones que se detallan más abajo.
-- La docuementación generada con OpenApi 3.0 y Swagger.
-- Una colección de Postman con las peticiones generadas en JSON para poder realizar pruebas de la app.
-- Implementación en Angular
 
 ## Entidades
 
