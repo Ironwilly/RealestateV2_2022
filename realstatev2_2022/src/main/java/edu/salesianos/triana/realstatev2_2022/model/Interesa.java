@@ -1,11 +1,15 @@
 package edu.salesianos.triana.realstatev2_2022.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import edu.salesianos.triana.realstatev2_2022.users.model.User;
 import lombok.*;
+import org.springframework.data.annotation.CreatedDate;
+import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.*;
 import java.io.Serializable;
 import java.time.LocalDate;
+
 
 @Entity
 @Setter
@@ -13,9 +17,13 @@ import java.time.LocalDate;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+
+
 public class Interesa implements Serializable {
 
-    private LocalDate createDate;
+    @CreatedDate
+    @JsonFormat(pattern = "MM/dd/yyyy")
+    private LocalDate createDate = LocalDate.now();
 
     @Lob
     private String mensaje;
